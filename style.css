@@ -1,0 +1,27 @@
+div * {
+    background-color: purple;
+  }
+
+ p{
+    color: gray;
+  }
+
+  .my-class {
+    color: blue;
+  }
+  #my-id {
+    color: green;
+  }
+  div > p {
+    color: red;
+  }
+  div p {
+    color: pink;
+  }
+  p + p {
+    color: red;
+  }
+  p ~ ul {
+    color: green;
+  }
+            
